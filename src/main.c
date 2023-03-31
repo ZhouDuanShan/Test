@@ -7,5 +7,6 @@ int main(int argc, char const *argv[])
     2.0.0
 
     3.test:do
+    4.test:do
     return 0;
 }
